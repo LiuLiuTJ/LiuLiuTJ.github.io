@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Below is a short selection. For a full list, see Google Scholar.
+Below is a short selection. For a full list of publications, please see my [Google Scholar](https://scholar.google.com.hk/citations?user=eCzfpL0AAAAJ&hl=zh-CN) profile.
 
 1. **Indoor navigation supported by the Industry Foundation Classes (IFC): A survey**. *Automation in Construction*, 2021. (https://doi.org/10.1016/j.autcon.2020.103436)
    
