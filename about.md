@@ -8,7 +8,7 @@ I am a senior researcher and expert in Geographic Information Science and Geomat
 
 I have also been engaged in the field of urban planning for a considerable period of time. I am passionate about programming and about uncovering the underlying patterns within cities. Consequently, my current research primarily focuses on advancing intelligent urban development and digital governance, which necessarily involves the appropriate application of cutting‑edge technologies.
 
-**Research keywords**: Ditigial Twin City, Urban Analytics, Intelligent Planning, Spatial Intelligence, Indoor Moblity Sensing, indoor Navigation.
+**Research keywords**: *Ditigial Twin City, Urban Analytics, Intelligent Planning, Spatial Intelligence, Indoor Moblity Sensing, indoor Navigation*.
 
 ### Academic Services
 - *Advisor*, ISPRS Working Group IV/9 “Spatially Enabled Urban and Regional Digital Twins”
