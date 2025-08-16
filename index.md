@@ -27,4 +27,3 @@ As the Principal Investigator, I am conducting several projects including: *Inte
 > - 2025-04: Granted invention patent:'A Method for Optimizing the Time-Sharing Use Design of Open Spaces in Community Micro-Renewal'.
 > - 2024-12: Was granted a new research project funded by the Shanghai Natural Science Foundation.
 
-![portrait](assets/img/avatar.png)
