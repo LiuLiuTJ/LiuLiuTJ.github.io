@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Liu Liu
+# Dr. Liu Liu
 
 *Title*: Associate professor  
 *Affiliation*: Department of Urban Planning, Tongji University
