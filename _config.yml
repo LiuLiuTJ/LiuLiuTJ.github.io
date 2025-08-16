@@ -1,0 +1,23 @@
+title: Your Name
+tagline: Urban Planning · Spatial Intelligence
+email: you@university.edu
+description: >-
+  Academic homepage. Researching digital twins, urban analytics, and human mobility.
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io"  # your GitHub Pages URL
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+
+# navigation links in the header
+header_pages:
+  - about.md
+  - publications.md
+  - projects.md
+  - contact.md
+
+# build settings
+markdown: kramdown
+kramdown:
+  input: GFM
