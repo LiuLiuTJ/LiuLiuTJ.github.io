@@ -19,4 +19,4 @@ permalink: /projects/
 
 ###### 5) 'Multi-source Sensor Fusion Positioning for Smartphones Enhanced with Building Information' (PI) 
 
-#### 6) 'Indoor Semantic Modeling to Support Pathfinding',  TU Delft & Bentley Systems Inc.  (PI)
+###### 6) 'Indoor Semantic Modeling to Support Pathfinding',  TU Delft & Bentley Systems Inc.  (PI)
