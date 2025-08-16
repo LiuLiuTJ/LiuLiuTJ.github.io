@@ -11,10 +11,10 @@ I have also been engaged in the field of urban planning for a considerable perio
 **Research keywords**: Ditigial Twin City, Urban Analytics, Intelligent Planning, Spatial Intelligence, Indoor Moblity Sensing, indoor Navigation.
 
 ### Academic Services
-Advisor, ISPRS Working Group IV/9 “Spatially Enabled Urban and Regional Digital Twins”
-Committee Member on Digital Twins and Future Cities, Chinese Society for Urban Studies
-Editorial Board Member, ISPRS International Journal of Geo-Information
-Reviewer for prestigious international academic journals, including *Nature Communications, Computers, Environment and Urban Systems, International Journal of Geographical Information Science, International Journal of Applied Earth Observation and Geoinformation, Transactions in GIS*, *Environment and Planning B: Urban Analytics and City Science, etc.*
+- *Advisor*, ISPRS Working Group IV/9 “Spatially Enabled Urban and Regional Digital Twins”
+- *Committee Member* on Digital Twins and Future Cities, Chinese Society for Urban Studies
+- *Editorial Board Member*, ISPRS International Journal of Geo-Information
+- *Reviewer* for prestigious international academic journals, including *Nature Communications, Computers, Environment and Urban Systems, International Journal of Geographical Information Science, International Journal of Applied Earth Observation and Geoinformation, Transactions in GIS*, *Environment and Planning B: Urban Analytics and City Science, etc.*
 
 ### Short bio
 - *Associate Professor*, Tongji University. 2021 - Present
