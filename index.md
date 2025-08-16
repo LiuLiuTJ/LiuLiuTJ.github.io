@@ -16,7 +16,8 @@ As the Principal Investigator, I am conducting several projects including: *Inte
 - **Google Scholar**: <https://scholar.google.com.hk/citations?user=eCzfpL0AAAAJ&hl=zh-CN>  
 - **ORCID**: <https://orcid.org/0000-0002-0275-5701>
 
-> News
+
+> # News
 > - 2025-07: Our paper on AI-Empowered Research on Healthy Streets in AESOP CONGRESS 2025 was accepted and presented.
 > - 2025-04: Granted invention patent:'A Method for Optimizing the Time-Sharing Use Design of Open Spaces in Community Micro-Renewal'.
 > - 2024-12: Was granted a new research project funded by the Shanghai Natural Science Foundation.
