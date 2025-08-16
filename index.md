@@ -6,15 +6,11 @@ title: Research
 
 <div style="text-align:center">
   <img src="/assets/img/avatar.png" alt="Avatar" style="width:150px; border-radius:50%; margin-bottom:20px;">
-  <h1 style="margin-bottom:5px;">Liu Liu</h1>
-  <p style="font-size:18px; color:gray;">Youth Faculty | Researcher | Educator</p>
+  <h1 style="margin-bottom:5px;">Dr. Liu Liu</h1>
+  <p style="font-size:18px; color:gray;"> Department of Urban Planning, Tongji University | Associate professor| Research Supervisor</p>
 </div>
 
 ---
-# Dr. Liu Liu
-*Title*: Associate professor  
-*Affiliation*: Department of Urban Planning, Tongji University
- 
 Welcome to my academic homepage. 
 
 For the past five years, I have been working on **Digital Twin City**, **RSSI–based crowd analytics**, and **AI for Urban Planning**.
