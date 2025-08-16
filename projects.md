@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### Current  Projects:
+### --Current  Projects:
 
 #### 1) 'Integrated Technology for 'Sensing – Simulation – Planning Response' of Cultural Heritage Risk' (PI)
 
@@ -13,7 +13,7 @@ permalink: /projects/
 #### 3) 'Real-time Obstacle-Avoidance Navigation Method for Indoor Crowd Modeling Based on Wi-Fi Positioning and an Improved Two-level Pathfinding Approach' (PI)
 
 
-### Completed Projects:
+### --Completed Projects:
 
 #### 4) 'High-Precision Integrated Positioning Technology Based on Urban 3D Imagery' (PI)
 
