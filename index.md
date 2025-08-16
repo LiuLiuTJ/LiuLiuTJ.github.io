@@ -15,7 +15,7 @@ Welcome to my academic homepage.
 
 For the past five years, I have been working on **Digital Twin City**, **RSSI–based crowd analytics**, and **AI for Urban Planning**. My recent research focuses on the sensing, modeling, and spatial analysis of urban environments and dynamics, leading to the development of software applications, patents, and related publications. So far, I have published more than 30 academic papers and authored an English monograph. As the first inventor, I hold several granted national invention patents. 
 
-As the Principal Investigator, I am conducting several projects including: *Integrated Technology for 'Sensing – Simulation – Planning Response' of Cultural Heritage Risk*, *Performance Evaluation and Optimization Method of Community Renewal Planning Supported by AI and Digital Twin*, and *Real-time Obstacle-Avoidance Navigation Method for Indoor Crowd Modeling Based on Wi-Fi Positioning and an Improved Two-level Pathfinding Approach*. 
+As the Principal Investigator, I am conducting several projects including: *Integrated Technology for 'Sensing – Simulation – Planning Response' of Cultural Heritage Risk*, *Performance Evaluation and Optimization Method of Community Renewal Planning Supported by AI and Digital Twin*, *etc*. 
 
 I am always open to collaboration with scholars who share similar research interests, and I also welcome prospective graduate students interested in smart cities and intelligent urban planning to reach out about opportunities to join my group.
 
