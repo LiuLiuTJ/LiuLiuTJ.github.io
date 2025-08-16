@@ -17,14 +17,14 @@ Editorial Board Member, ISPRS International Journal of Geo-Information
 Reviewer for prestigious international academic journals, including *Nature Communications, Computers, Environment and Urban Systems, International Journal of Geographical Information Science, International Journal of Applied Earth Observation and Geoinformation, Transactions in GIS*, *Environment and Planning B: Urban Analytics and City Science, etc.*
 
 ### Short bio
-- Associate Professor, Tongji University. 2021 - Present
-- Postdoctoral Researcher, Tongji University. 2018-2021. Supported by Postdoctoral International Exchange Program (Talent-Introduction Program), by the Office of China Postdoc Council (OCPC) and host institutes.
-- Ph.D., 3D Geoinformation Group, Dept. of Urbanism, TU Delft. 2017  
-- Researcher, TU Delft. 2014-2015
-- Visiting Researcher, Bentley System Inc. 2014
+- *Associate Professor*, Tongji University. 2021 - Present
+- *Postdoctoral Researcher*, Tongji University. 2018-2021.  Supported by Postdoctoral International Exchange Program (Talent-Introduction Program), by the Office of China Postdoc Council (OCPC) and the host university.
+- *Ph.D.*, 3D Geoinformation Group, Dept. of Urbanism, TU Delft. 2017  
+- *Researcher*, TU Delft. 2014-2015
+- *Visiting Researcher*, Bentley System Inc. 2014
 
 
 ### Teaching
-- Introduction to Integrated Perception and Analysis of Spatial Planning (Graduate)
+- Introduction to Integrated Perception and Intelligent Analysis of Spatial Planning (Graduate)
 - Urban Master/Comprehensive Planning (Undergraduate)
 - Introduction to Land Use Planning (Undergraduate)
