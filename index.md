@@ -26,7 +26,7 @@ I am always open to collaboration with scholars who share similar research inter
 
 
 > # News
-> - 2025-07: Our paper on AI-Empowered Research on Healthy Streets in AESOP CONGRESS 2025 was accepted and presented. [Link](https://congress.aesop-planning.eu/event/1/contributions/491/#:~:text=Therefore%2C%20this%20study%20employs%20LoRA%20fine-tuning%20technology%20in,intelligent%20and%20dynamic%20optimization%20in%20Healthy%20Streets%20studies.)
+> - 2025-07: Our paper on AI-Empowered Research on Healthy Streets in AESOP CONGRESS 2025 was accepted and presented [(Link)](https://congress.aesop-planning.eu/event/1/contributions/491/#:~:text=Therefore%2C%20this%20study%20employs%20LoRA%20fine-tuning%20technology%20in,intelligent%20and%20dynamic%20optimization%20in%20Healthy%20Streets%20studies.). 
 > - 2025-04: Granted invention patent:'A Method for Optimizing the Time-Sharing Use Design of Open Spaces in Community Micro-Renewal'.
 > - 2024-12: Was granted a new research project funded by the Shanghai Natural Science Foundation.
 
