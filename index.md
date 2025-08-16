@@ -20,7 +20,8 @@ As the Principal Investigator, I am conducting several projects including: *Inte
 I am always open to collaboration with scholars who share similar research interests, and I also welcome prospective graduate students interested in smart cities and intelligent urban planning to reach out about opportunities to join my group.
 
 - **Email**: l.liu@tongji.edu.cn
-- **Google Scholar**: [Google Scholar Page](https://scholar.google.com.hk/citations?user=eCzfpL0AAAAJ&hl=zh-CN)  
+- **Google Scholar**: [Google Scholar Page](https://scholar.google.com.hk/citations?user=eCzfpL0AAAAJ&hl=zh-CN)
+- **ResearchGate** [ResearchGate Page](https://www.researchgate.net/profile/Liu-Liu-146) 
 - **ORCID**: [ORCID Page](https://orcid.org/0000-0002-0275-5701)
 
 
