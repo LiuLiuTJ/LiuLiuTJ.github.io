@@ -7,9 +7,10 @@ title: Home
 
 *Title*: Associate professor  
 *Affiliation*: Department of Urban Planning, Tongji University
+ 
+For the past five years, I have been working on **Digital Twin City**, **RSSI–based crowd analytics**, and **AI for Urban Planning**.
 
-I work on **digital twins**, **Wi‑Fi RSSI–based crowd analytics**, and **AI for urban design**.  
-My current projects include: human trajectory uncertainty modeling, multi-graph learning for indoor POI floor prediction, and agent-based evacuation simulation.
+As the Principal Investigator, I am conducting several projects including: *Integrated Technology for 'Sensing – Simulation – Planning Response' of Cultural Heritage Risk*, *Performance Evaluation and Optimization Method of Community Renewal Planning Supported by AI and Digital Twin*, and *Real-time Obstacle-Avoidance Navigation Method for Indoor Crowd Modeling Based on Wi-Fi Positioning and an Improved Two-level Pathfinding Approach*. 
 
 - **Email**: l.liu@tongji.edu.cn
 - **Google Scholar**: <https://scholar.google.com.hk/citations?user=eCzfpL0AAAAJ&hl=zh-CN>  
