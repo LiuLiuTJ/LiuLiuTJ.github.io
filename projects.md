@@ -4,14 +4,19 @@ title: Projects
 permalink: /projects/
 ---
 
-### 1) Uncertainty of indoor human trajectories for precise navigation
-- Goal: quantify and minimize trajectory uncertainty under complex indoor layouts.
-- Methods: ABM + GNN, visibility voxels, probabilistic routing.
+#### Current  Projects:
 
-### 2) Wi‑Fi RSSI + infrared counters for high-density crowd monitoring
-- Goal: early warning for congestion with minimal sensors.
-- Methods: local GPR per visibility cell, transfer learning, digital twin.
+### 1) 'Integrated Technology for 'Sensing – Simulation – Planning Response' of Cultural Heritage Risk' (PI)
 
-### 3) Community renewal impact evaluation via multi-objective optimization
-- Goal: policy-aware design recommendations balancing livability and access.
-- Methods: graph-based design space, RL for scenario search.
+### 2) 'Performance Evaluation and Optimization Method of Community Renewal Planning Supported by AI and Digital Twin' (PI)
+
+### 3) 'Real-time Obstacle-Avoidance Navigation Method for Indoor Crowd Modeling Based on Wi-Fi Positioning and an Improved Two-level Pathfinding Approach' (PI)
+
+
+#### Completed Projects:
+
+### 4) 'High-Precision Integrated Positioning Technology Based on Urban 3D Imagery' (PI)
+
+### 5) 'Multi-source Sensor Fusion Positioning for Smartphones Enhanced with Building Information' (PI) 
+
+### 6) 'Indoor Semantic Modeling to Support Pathfinding',  TU Delft & Bentley Systems Inc.  (PI)
