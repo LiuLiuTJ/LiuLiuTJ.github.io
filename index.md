@@ -40,11 +40,11 @@ I am always open to collaboration with scholars who share similar research inter
 
 
 <body>
-   <p>
-      👀 Visitors:<br>
-      <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/liuliutjtest/visits" />
-    </p>
-
+<!-- 访客计数 Badge -->
+  <p>
+    👀 Visitors:<br>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=LiuLiuTJ.github.io&countColor=brightgreen" alt="Visitor Count" />
+  </p>
 </body>
 
 
