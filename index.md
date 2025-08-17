@@ -3,7 +3,7 @@ layout: home
 title: Research
 ---
 <footer>
-    <blockquote>
+    <blockquote style="font-style: italic; font-size: 0.9em; margin-top: 50px;">
       <em>"The mind is not a vessel to be filled but a fire to be kindled."</em>
       — Plutarch 
     </blockquote>
@@ -38,13 +38,5 @@ I am always open to collaboration with scholars who share similar research inter
 
 ---
 
-
-<body>
-<!-- 访客计数 Badge -->
-  <p>
-    👀 Visitors:<br>
-    <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/LiuLiuTJ.github.io/visits" alt="Visitor Count" />
-  </p>
-</body>
 
 
