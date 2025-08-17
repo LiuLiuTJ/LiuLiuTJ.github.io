@@ -4,7 +4,7 @@ title: Research
 ---
 <footer>
     <blockquote>
-      <em>"The mind is not a vessel to be filled but a fire to be kindled."</em><br>
+      <em>"The mind is not a vessel to be filled but a fire to be kindled."</em>
       — Plutarch 
     </blockquote>
 </footer>
