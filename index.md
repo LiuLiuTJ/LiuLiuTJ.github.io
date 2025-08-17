@@ -2,14 +2,14 @@
 layout: home
 title: Research
 ---
-
+<body>
     <blockquote>
       "The mind is not a vessel to be filled but a fire to be kindled."  
       — Plutarch 
     </blockquote>
   </footer>
 ---
-<body>
+
 <div style="text-align:center">
   <img src="/assets/img/avatar.jpg" alt="Avatar" style="width:150px; border-radius:50%; margin-bottom:20px;">
   <h1 style="margin-bottom:5px;">Dr. Liu Liu</h1>
@@ -36,6 +36,7 @@ I am always open to collaboration with scholars who share similar research inter
 > - 2025-04: Granted invention patent:'A Method for Optimizing the Time-Sharing Use Design of Open Spaces in Community Micro-Renewal'.
 > - 2024-12: Was granted a new research project funded by the Shanghai Natural Science Foundation.
 
+---
   <h2>Guestbook</h2>
   <p>Please leave your comments below:</p>
   <script src="https://utteranc.es/client.js"
@@ -45,7 +46,10 @@ I am always open to collaboration with scholars who share similar research inter
           crossorigin="anonymous"
           async>
   </script>
-<p>
+
+---
+  <p>
     👀 Visitors: 
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://LiuLiuTJ/LiuLiuTJ.github.io&title=Visitors" />
   </p>
+</body>
