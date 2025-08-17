@@ -9,7 +9,7 @@ title: Research
     </blockquote>
   </footer>
 ---
-
+<body>
 <div style="text-align:center">
   <img src="/assets/img/avatar.jpg" alt="Avatar" style="width:150px; border-radius:50%; margin-bottom:20px;">
   <h1 style="margin-bottom:5px;">Dr. Liu Liu</h1>
@@ -45,3 +45,4 @@ I am always open to collaboration with scholars who share similar research inter
           crossorigin="anonymous"
           async>
   </script>
+</body>
