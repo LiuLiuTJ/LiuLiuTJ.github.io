@@ -39,7 +39,7 @@ I am always open to collaboration with scholars who share similar research inter
   <h2>Guestbook</h2>
   <p>Please leave your comments below:</p>
   <script src="https://utteranc.es/client.js"
-          repo="yourusername/yourrepo"
+          repo="LiuLiuTJ/LiuLiuTJ.github.io"
           issue-term="pathname"
           theme="github-light"
           crossorigin="anonymous"
