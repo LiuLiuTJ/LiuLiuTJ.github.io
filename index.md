@@ -1,13 +1,7 @@
 ---
 layout: home
 title: Research
----
- 
-    <blockquote>
-      <em>"The mind is not a vessel to be filled but a fire to be kindled."</em><br>
-      — Plutarch 
-    </blockquote>
-  </footer>
+
 ---
 
 <div style="text-align:center">
@@ -37,6 +31,7 @@ I am always open to collaboration with scholars who share similar research inter
 > - 2024-12: Was granted a new research project funded by the Shanghai Natural Science Foundation.
 
 ---
+<body>
   <h2>Guestbook</h2>
   <p>Please leave your comments below:</p>
   <script src="https://utteranc.es/client.js"
@@ -52,4 +47,10 @@ I am always open to collaboration with scholars who share similar research inter
     👀 Visitors: 
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://LiuLiuTJ/LiuLiuTJ.github.io&title=Visitors" />
   </p>
- 
+ ---
+    <blockquote>
+      <em>"The mind is not a vessel to be filled but a fire to be kindled."</em><br>
+      — Plutarch 
+    </blockquote>
+  </footer>
+</body>
