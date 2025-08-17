@@ -32,7 +32,7 @@ I am always open to collaboration with scholars who share similar research inter
 
   <footer>
     <blockquote>
-      "The mind is not a vessel to be filled, but a fire to be kindled."  
-      — Plutarch, <i>On Listening to Lectures</i>
+      "The mind is not a vessel to be filled but a fire to be kindled."  
+      — Plutarch </i>
     </blockquote>
   </footer>
