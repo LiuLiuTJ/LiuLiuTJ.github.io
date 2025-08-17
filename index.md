@@ -2,10 +2,12 @@
 layout: home
 title: Research
 ---
+<footer>
     <blockquote>
       <em>"The mind is not a vessel to be filled but a fire to be kindled."</em><br>
       — Plutarch 
     </blockquote>
+</footer>
 ---
 
 <div style="text-align:center">
