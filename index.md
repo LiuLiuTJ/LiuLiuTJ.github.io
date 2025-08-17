@@ -40,20 +40,11 @@ I am always open to collaboration with scholars who share similar research inter
 
 
 <body>
-    <p>
-      👀 Visitors: <span id="visits">—</span>
+   <p>
+      👀 Visitors:<br>
+      <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/liuliutjtest/visits" />
     </p>
-    <script>
-      fetch('https://api.countapi.xyz/hit/liuliutj/visits')
-        .then(res => res.json())
-        .then(data => {
-          document.getElementById('visits').innerText = data.value;
-        })
-        .catch(err => {
-          console.error('CountAPI 请求失败：', err);
-          document.getElementById('visits').innerText = 'N/A';
-        });
-    </script>
+
 </body>
 
 
