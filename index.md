@@ -39,14 +39,18 @@ I am always open to collaboration with scholars who share similar research inter
 ---
 
 <p>
-  👀 Visitors: <span id="visits"></span>
+  👀 Visitors: <span id="visits">—</span>
 </p>
 
 <script>
-  fetch('https://api.countapi.xyz/hit/LiuLiuTJ.github.io/visits')
+  fetch('https://api.countapi.xyz/hit/liuliutj/visits')
     .then(res => res.json())
-    .then(res => {
-      document.getElementById('visits').innerText = res.value;
+    .then(data => {
+      document.getElementById('visits').innerText = data.value;
+    })
+    .catch(err => {
+      console.error('CountAPI 请求失败：', err);
+      document.getElementById('visits').innerText = 'N/A';
     });
 </script>
 
