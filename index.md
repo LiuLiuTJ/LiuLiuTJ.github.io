@@ -2,7 +2,7 @@
 layout: home
 title: Research
 ---
-  <footer>
+
     <blockquote>
       "The mind is not a vessel to be filled but a fire to be kindled."  
       — Plutarch 
@@ -45,4 +45,7 @@ I am always open to collaboration with scholars who share similar research inter
           crossorigin="anonymous"
           async>
   </script>
-</body>
+<p>
+    👀 Visitors: 
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://LiuLiuTJ/LiuLiuTJ.github.io&title=Visitors" />
+  </p>
