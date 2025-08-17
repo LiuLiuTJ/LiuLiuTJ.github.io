@@ -1,13 +1,7 @@
 ---
 layout: home
 title: Research
----
-<footer>
-    <blockquote style="font-style: italic; font-size: 0.9em; margin-top: 50px;">
-      <em>"The mind is not a vessel to be filled but a fire to be kindled."</em>
-      — Plutarch 
-    </blockquote>
-</footer>
+
 ---
 
 <div style="text-align:center">
@@ -37,6 +31,12 @@ I am always open to collaboration with scholars who share similar research inter
 > - 2024-12: Was granted a new research project funded by the Shanghai Natural Science Foundation.
 
 ---
+<footer>
+    <blockquote style="font-style: italic; font-size: 1em; margin-top: 50px;">
+      <em>"The mind is not a vessel to be filled but a fire to be kindled."</em>
+      — Plutarch 
+    </blockquote>
+</footer>
 
 
 
