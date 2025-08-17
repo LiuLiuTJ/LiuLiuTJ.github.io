@@ -30,3 +30,9 @@ I am always open to collaboration with scholars who share similar research inter
 > - 2025-04: Granted invention patent:'A Method for Optimizing the Time-Sharing Use Design of Open Spaces in Community Micro-Renewal'.
 > - 2024-12: Was granted a new research project funded by the Shanghai Natural Science Foundation.
 
+  <footer>
+    <blockquote>
+      "The mind is not a vessel to be filled, but a fire to be kindled."  
+      — Plutarch, <i>On Listening to Lectures</i>
+    </blockquote>
+  </footer>
